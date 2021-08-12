@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vivesweb
-- 👀 I’m interested in PHP Code
-- 🌱 I’m currently learning Deep learning, Machine Learning, Neural Networks, backpropagation.... Ai in general
-- 💞️ I’m looking to collaborate on ... I'm sorry. Not enough time, but all we do is for the community :)
+- 👀 I’m interested in PHP Code, Raspberry pi, lightweight servers
+- 🌱 I’m currently working with Deep learning, Machine Learning, Neural Networks, backpropagation.... Ai in general
 - 📫 How to reach me: at www.inatica.com
 - Blog: https://rafamartin10.blogspot.com
 
